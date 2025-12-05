@@ -1,1 +1,1 @@
-with open("5_test.txt", "r") as f: f = f.read().splitlines()
+with open("6_test.txt", "r") as f: f = f.read().splitlines()
